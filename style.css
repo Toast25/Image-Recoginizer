@@ -1,0 +1,11 @@
+#b1{
+    color:white;
+}
+body{
+    background-color:deepskyblue;
+}
+#picture,#webcam{
+    border-style:solid;
+    width:350px;
+    height: 300px;
+}
